@@ -1,0 +1,32 @@
+Source: U.S. Department of Energy, Office of Nuclear Energy
+URL: https://www.energy.gov/ne/nuclear-reactor-technologies/small-modular-nuclear-reactors
+
+Small Modular Reactors (SMRs): The Next Generation of Nuclear Power
+
+Small modular reactors (SMRs) are advanced nuclear reactors with a power capacity of up to 300 MWe per unit. They are physically smaller than conventional nuclear power reactors, and can be factory-fabricated and then transported to a site for installation. SMRs represent a new approach to nuclear power that emphasizes flexibility, scalability, and reduced construction risk.
+
+What Makes SMRs Different
+
+Traditional nuclear power plants are large, complex projects that can take a decade or more to build and cost billions of dollars. SMRs take a fundamentally different approach. Rather than building massive, custom-designed facilities on site, SMRs are designed to be manufactured in factories using standardized components and then shipped to their final location.
+
+This modular approach offers several advantages. Factory fabrication allows for better quality control and more predictable costs. Smaller unit sizes mean lower upfront capital investment and shorter construction timelines. Multiple modules can be combined at a single site to match the power needs of the customer, allowing capacity to grow incrementally rather than requiring a massive single investment.
+
+Types of SMR Designs
+
+Several types of SMR designs are currently being developed worldwide. These include light water reactor designs, which use the same basic technology as today's large nuclear plants but in a smaller package, and non-light water designs that use different coolants such as gas, liquid metal, or molten salt.
+
+Some notable SMR designs include pressurized water reactor designs, high-temperature gas-cooled reactors, sodium-cooled fast reactors, and molten salt reactors. Each design has its own advantages depending on the intended application.
+
+Applications and Use Cases
+
+SMRs open up new possibilities for nuclear energy beyond traditional large-scale electricity generation. Their smaller size and flexible deployment options make them suitable for replacing aging coal plants, providing power to remote communities and industrial sites, desalinating seawater, producing hydrogen, and providing district heating.
+
+SMRs can also operate as part of hybrid energy systems alongside renewable energy sources like wind and solar. Their ability to ramp power up and down makes them well-suited to complement the variable output of renewables, providing reliable baseload power when the wind is not blowing or the sun is not shining.
+
+Microreactors are an even smaller class of nuclear reactor, typically producing less than 20 MWe. These ultra-compact systems are designed to be fully transportable and deployable within days or weeks rather than years.
+
+The SMR and Microreactor Market
+
+The global market for SMRs is growing rapidly as countries seek clean, reliable energy sources to meet climate goals. The U.S. Department of Energy has invested significantly in SMR development through programs like the Advanced Reactor Demonstration Program, GAIN vouchers, and the National Reactor Innovation Center.
+
+Several countries including the United States, Canada, the United Kingdom, and others are actively developing regulatory frameworks to support SMR deployment. The first commercial SMR deployments are expected in the late 2020s, with broader adoption following in the 2030s.

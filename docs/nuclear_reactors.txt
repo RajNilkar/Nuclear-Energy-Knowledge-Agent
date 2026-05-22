@@ -1,0 +1,26 @@
+Source: Nuclear Energy Institute, IAEA, World Nuclear Association
+URL: https://www.nei.org/fundamentals/how-a-nuclear-reactor-works
+
+How Does a Nuclear Reactor Work?
+
+Nuclear reactors are the heart of a nuclear power plant. They produce energy through fission, the process of splitting atoms. A nuclear reactor releases the energy stored in atomic nuclei, generating large amounts of heat which can be converted into electricity.
+
+Nuclear plants split atoms to heat water into steam. The steam turns a turbine to generate electricity. It takes sophisticated equipment and a highly trained workforce to make it happen, but it's that simple. In most power plants, you need to spin a turbine to generate electricity. Coal, natural gas, oil and nuclear energy use their fuel to turn water into steam and use that steam to turn the turbine.
+
+Nuclear plants are different because they do not burn anything to create steam. Instead, they split uranium atoms in a process called fission. When a low-energy neutron fissions a uranium-235 nucleus, it releases large amounts of energy as heat, along with 2-3 high-energy neutrons. The split remnants of the nucleus are called fission products, which are highly radioactive for relatively short periods.
+
+The high-energy neutrons produced in fission collide with other particles to decrease their energy, a process called moderation, lowering them to an energy level that will fission more uranium-235 nuclei. When the new nuclei are fissioned, more neutrons are released, and the chain reaction continues. The ideal state for a nuclear reactor is called criticality, where one neutron leads to one fission, which creates one neutron that leads to more fissions.
+
+Control rods made of materials like boron or cadmium are inserted into the reactor core to absorb excess neutrons. By adjusting the position of these rods, operators can regulate the rate of the reaction. There are normally around 50 clusters with 20 individual control rods within a typical reactor that act as neutron sponges to help control the amount of energy released.
+
+Types of Reactors
+
+The nuclear reactors currently operating in the United States are either boiling water reactors or pressurized water reactors.
+
+A boiling water reactor heats up the water in the reactor until it boils into steam and spins the turbine.
+
+A pressurized water reactor heats up the water in the reactor too. However, that water is kept under pressure so it doesn't boil and is piped to another supply of water that becomes steam and spins the turbine.
+
+Innovative entrepreneurs and startups are developing new types of reactors to be more efficient and flexible in operations, reach remote and developing areas, and even turn seawater into drinking water. Advanced reactors include many types of reactors, including small modular reactors (SMRs) and microreactors now in development.
+
+A single uranium fuel pellet contains as much energy as there is in one tonne of coal. A typical reactor requires about 27 tonnes of fresh fuel each year. In contrast, a coal power station of a similar size would require more than two-and-a-half million tonnes of coal to produce as much electricity.

@@ -50,7 +50,7 @@ def ask_question(user_question):
     """
 
     messages = [
-        SystemMessage(content="You are a knowledgeable assistant for NuCube Energy, a nuclear microreactor startup. Answer questions accurately based on the provided documents.Do not combine or infer information across different documents. If two documents contain conflicting or unrelated details, prioritize the most specific source.")
+        SystemMessage(content="You are a knowledgeable assistant specializing in nuclear energy topics. Answer questions accurately based on the provided documents.Do not combine or infer information across different documents. If two documents contain conflicting or unrelated details, prioritize the most specific source.")
     ] + chat_history + [
         HumanMessage(content=combined_input)
     ]
@@ -80,10 +80,10 @@ def ask_question(user_question):
 def start_agent():
     collection = db._collection
     doc_count = collection.count()
-    print("Welcome to the NuCube Energy Knowledge Agent!")
+    print("Welcome to the Nuclear Energy Knowledge Agent!")
     print("Powered by Mistral + RAG (Local)")
     print(f"  Knowledge base: {doc_count} document chunks indexed")
-    print("Ask any question about NuCube Energy, microreactors, or nuclear energy, and I'll do my best to provide an answer based on the documents I have.")
+    print("Ask any question about nuclear energy, microreactors, or related topics, and I'll do my best to provide an answer based on the documents I have.")
     print("Type 'exit' to end the conversation.\n")
 
     while True:
@@ -119,7 +119,7 @@ def start_agent():
             print("\nYou're welcome! If you have any more questions, feel free to ask.")
             continue
         if any(word == question.lower() for word in ["hi", "hello", "hey"]):
-            print("\nAgent: Hello! Ask me anything about NuCube Energy, microreactors, or nuclear technology.\n")
+            print("\nAgent: Hello! Ask me anything about Nuclear Energy, microreactors, or nuclear technology.\n")
             continue
         if question.lower() in ["exit", "quit"]:
             print("\nAgent: Goodbye!")
