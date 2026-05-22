@@ -2,7 +2,7 @@
 A locally hosted conversational AI agent that answers questions about NuCube Energy, nuclear microreactors, and TRISO fuel technology using Retrieval-Augmented Generation (RAG). The entire system runs locally with no external API calls — no data ever leaves your machine.
 
 ## Why I Built This
-NuCube Energy is developing a locally hosted AI agent for their engineering and research teams to provide fast, accurate access to internal documentation. This project is a working prototype of that concept, built around publicly available nuclear energy and NuCube-specific documentation to demonstrate the full RAG pipeline end to end.
+This project is a demo AI Agent that is built around publicly available nuclear energy and NuCube-specific documentation to demonstrate the full RAG pipeline end to end.
 
 ## Tech Stack
 
@@ -42,6 +42,7 @@ Conversational Agent (agent.py)
 * Built-in commands — help, sources, clear, and exit for session management
 
 ## Project Structure
+```
 nuclear-energy-knowledge-agent/
 ├── docs/                      # Source documents (8 text files)
 ├── db/
@@ -51,3 +52,4 @@ nuclear-energy-knowledge-agent/
 ├── requirements.txt           # Python dependencies
 ├── .gitignore
 └── README.md
+```
