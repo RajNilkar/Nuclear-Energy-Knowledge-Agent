@@ -95,7 +95,6 @@ nrc-microreactor-agent/
 ├── app.py                       # Chat interface
 ├── build_index.py               # One-time index builder
 ├── config.py                    # Models, paths, chunking config
-├── debug.py                     # Retrieval inspection script
 ├── data/raw/licensing/          # NRC PDFs
 ├── db/chroma_db/                # ChromaDB persistence (gitignored)
 ├── docs/
