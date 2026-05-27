@@ -1,0 +1,110 @@
+{
+  "ML20129J985.pdf": {
+    "accession": "ML20129J985",
+    "document_id": "SECY-20-0093",
+    "subject": "Policy and Licensing Considerations Related to Micro-Reactors",
+    "type": "SECY Paper",
+    "topic": "licensing",
+    "date": "2020-10-06",
+    "source_url": "https://www.nrc.gov/docs/ML2012/ML20129J985.pdf"
+  },
+  "ML20254A365.pdf": {
+    "accession": "ML20254A365",
+    "document_id": "SECY-20-0093 Enclosure 1",
+    "subject": "Technical, Licensing, and Potential Policy Issues for Micro-Reactors",
+    "type": "SECY Enclosure",
+    "topic": "licensing",
+    "date": "2020-10-06",
+    "source_url": "https://www.nrc.gov/docs/ML2025/ML20254A365.pdf"
+  },
+  "ML20254A366.pdf": {
+    "accession": "ML20254A366",
+    "document_id": "SECY-20-0093 Enclosure 2",
+    "subject": "Possible Near-Term Licensing Approaches for Micro-Reactors",
+    "type": "SECY Enclosure",
+    "topic": "licensing",
+    "date": "2020-10-06",
+    "source_url": "https://www.nrc.gov/docs/ML2025/ML20254A366.pdf"
+  },
+  "ML23207A250.pdf": {
+    "accession": "ML23207A250",
+    "document_id": "SECY-24-0008",
+    "subject": "Micro-Reactor Licensing and Deployment Considerations: Fuel Loading and Operational Testing at a Factory",
+    "type": "SECY Paper",
+    "topic": "licensing",
+    "date": "2024-01-24",
+    "source_url": "https://www.nrc.gov/docs/ML2320/ML23207A250.pdf"
+  },
+  "ML23207A251.pdf": {
+    "accession": "ML23207A251",
+    "document_id": "SECY-24-0008 Enclosure",
+    "subject": "Technical, Licensing, and Policy Considerations for Factory-Fabricated Micro-Reactors",
+    "type": "SECY Enclosure",
+    "topic": "licensing",
+    "date": "2024-01-24",
+    "source_url": "https://www.nrc.gov/docs/ML2320/ML23207A251.pdf"
+  },
+  "ML24309A261.pdf": {
+    "accession": "ML24309A261",
+    "document_id": "SECY-25-0052",
+    "subject": "Nth-of-a-Kind Microreactor Licensing and Deployment Considerations",
+    "type": "SECY Paper",
+    "topic": "licensing",
+    "date": "2025-06-18",
+    "source_url": "https://www.nrc.gov/docs/ML2430/ML24309A261.pdf"
+  },
+  "ML24309A262.pdf": {
+    "accession": "ML24309A262",
+    "document_id": "SECY-25-0052 Enclosure 1",
+    "subject": "Standardization of Operational Programs for Nth-of-a-Kind Microreactors",
+    "type": "SECY Enclosure",
+    "topic": "licensing",
+    "date": "2025-06-18",
+    "source_url": "https://www.nrc.gov/docs/ML2430/ML24309A262.pdf"
+  },
+  "ML24309A263.pdf": {
+    "accession": "ML24309A263",
+    "document_id": "SECY-25-0052 Enclosure 2",
+    "subject": "Environmental Reviews for Nth-of-a-Kind Microreactors",
+    "type": "SECY Enclosure",
+    "topic": "licensing",
+    "date": "2025-06-18",
+    "source_url": "https://www.nrc.gov/docs/ML2430/ML24309A263.pdf"
+  },
+  "ML24309A260.pdf": {
+    "accession": "ML24309A260",
+    "document_id": "SECY-25-0052 Enclosure 3",
+    "subject": "Technical, Licensing, and Policy Considerations for Nth-of-a-Kind Microreactors",
+    "type": "SECY Enclosure",
+    "topic": "licensing",
+    "date": "2025-06-18",
+    "source_url": "https://www.nrc.gov/docs/ML2430/ML24309A260.pdf"
+  },
+  "ML24318C452.pdf": {
+    "accession": "ML24318C452",
+    "document_id": "SECY-25-0052 Enclosure 4",
+    "subject": "Licensing Steps and Estimated Timeframes for Nth-of-a-Kind Microreactors",
+    "type": "SECY Enclosure",
+    "topic": "licensing",
+    "date": "2025-06-18",
+    "source_url": "https://www.nrc.gov/docs/ML2431/ML24318C452.pdf"
+  },
+  "ML25168A133.pdf": {
+    "accession": "ML25168A133",
+    "document_id": "SRM-SECY-24-0008",
+    "subject": "Staff Requirements – Micro-Reactor Licensing and Deployment Considerations: Fuel Loading and Operational Testing at a Factory",
+    "type": "SRM",
+    "topic": "licensing",
+    "date": "2025-06-17",
+    "source_url": "https://www.nrc.gov/docs/ML2516/ML25168A133.pdf"
+  },
+  "ML25225A024.pdf": {
+    "accession": "ML25225A024",
+    "document_id": "Microreactor Activities Integration Tables",
+    "subject": "Microreactor Activities Integration Tables — completed, ongoing, and planned NRC staff actions",
+    "type": "Staff Document",
+    "topic": "roadmap",
+    "date": "2025-07-01",
+    "source_url": "https://www.nrc.gov/docs/ML2522/ML25225A024.pdf"
+  }
+}
